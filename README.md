@@ -1,1 +1,1 @@
-# Momentum-Project S&P 500 (w/ trading costs)
+# Momentum-Project S&P 500 (incl. trading costs)
